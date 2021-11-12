@@ -1,6 +1,8 @@
 # hello_flutter
 
-A new Flutter project.
+Joe's flutter demo project
+Please work :)
+
 
 ## Getting Started
 
